@@ -26,3 +26,7 @@ Performance metrics used : Confusion matrix, [AUC-ROC curve](https://scikit-lear
 ![aucroc](images/bert_3.png)
 ##### Confusion Matrix
 ![cm](images/bert_1.png)
+
+#### Project By:
+- [Devansh Kaushik](https://www.linkedin.com/in/devansh-kaushik-b5912b174/)
+- [Diwakar Srivastava](https://github.com/Diwakar012)
