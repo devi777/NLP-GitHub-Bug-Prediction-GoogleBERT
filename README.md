@@ -27,6 +27,11 @@ Performance metrics used : Confusion matrix, [AUC-ROC curve](https://scikit-lear
 ##### Confusion Matrix
 ![cm](images/bert_1.png)
 
+# Visualization
+![sunburst](/images/pageVizgif.gif)
+
+    Figure: Visualizing data using Plotly-express'sunburst treemaps
+
 #### Project By:
 - [Devansh Kaushik](https://www.linkedin.com/in/devansh-kaushik-b5912b174/)
 - [Diwakar Srivastava](https://github.com/Diwakar012)
