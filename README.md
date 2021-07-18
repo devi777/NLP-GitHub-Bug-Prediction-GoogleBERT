@@ -19,6 +19,16 @@ Test.json - 30000 rows x 2 columns
 Train_extra.json - 300000 rows x 3 columns (Includes label Column as Target variable)
 Getting a code quality score using the Embold Code Analysis platform for Evaluation.
 
+### Attribute Decription:
+Title - the title of the GitHub bug, feature, question <br>
+Body - the body of the GitHub bug, feature, question <br>
+Label - Represents various classes of Labels
+
+- Bug - 0
+- Feature - 1
+- Question - 2
+
+
 Performance metrics used : Confusion matrix, [AUC-ROC curve](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html) 
 
 # Images
